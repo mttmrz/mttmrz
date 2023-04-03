@@ -1,4 +1,4 @@
-[![mmarzano's 42 stats](https://badge.mediaplus.ma/black/mmarzano)](https://github.com/oakoudad/badge42)
+[![mmarzano's 42 stats](https://badge.mediaplus.ma/black/mmarzano?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 |project| status     |
 |:--------------:|:-----------:|
