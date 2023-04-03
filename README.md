@@ -1,5 +1,5 @@
 [![mmarzano's 42 stats](https://badge.mediaplus.ma/black/mmarzano?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+-------------------------------------------------------------
 |project| status     |
 |:--------------:|:-----------:|
 | **[LIBFT](https://github.com/mmarzano/ft_libft)** | [![mmarzano's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    |
@@ -21,6 +21,6 @@
 
 |exams| status     |
 |:--------------:|:-----------:|
-| **EXAM02**|     ✅     |
-| **EXAM03**|     ✅     |
-| **EXAM04**|     ✅     |
+| **EXAM02**|     ✔️    |
+| **EXAM03**|     ✔️     |
+| **EXAM04**|     ✔️     |
